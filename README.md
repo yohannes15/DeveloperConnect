@@ -8,13 +8,7 @@ Or are you trying to grow your skills through project collaboration? SJU Dev Con
 
 ![](images/home.png)
 
-Dev-Connect is a matchmaking application for student developers at SJU. Student developers register with their details and their qualities and interests, such as favorite programming language, current field of interest, database skill and more.
-
 ![](images/registration.png)
-
-After they have registered, they have a view of all aspiring developers at SJU. 
-
-![](images/visualizer.gif)
 
 Developers/Users can 
 
