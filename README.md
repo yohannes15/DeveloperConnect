@@ -4,9 +4,11 @@
 
 ## Portfolio
 
-A social networking platform built specifically for St. John's University student developers to find project collaborators and grow their skills. Features include user profiles with skill listings, project posting capabilities, and private messaging for direct communication between developers.
+A social networking platform built for St. John's University student developers to find project collaborators and grow their skills. 
 
-Built with Flask, PostgreSQL, and vanilla JavaScript (with a React version available in a separate branch). The platform addresses the challenge of connecting a smaller developer community on campus, enabling students to find teammates for projects, share knowledge, and build real-world applications together. Includes full authentication, profile management, and real-time messaging capabilities.
+Features user profiles with skill listings, project posting, and private messaging for direct communication between developers. Built with Flask, PostgreSQL, and vanilla JavaScript, with a React version available in a separate branch.
+
+The platform addresses the challenge of connecting a smaller developer community on campus, enabling students to find teammates for projects, share knowledge, and build real-world applications together.
 
 Are you a student at SJU? Do you have a great idea for a project or a product and require help? 
 
